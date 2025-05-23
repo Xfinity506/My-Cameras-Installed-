@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Professional Security Camera Installation in Stockton, CA - Residential & Small Businesses.">
+  <meta name="keywords" content="security cameras, camera installation, home security, business surveillance, Stockton CA">
+  <meta name="author" content="My Cameras Installed">
+  <title>My Cameras Installed - Security Camera Services</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header { background: #111; color: white; padding: 20px; text-align: center; }
+    section { padding: 20px; }
+    .gallery img { width: 100px; margin: 5px; }
+    footer { background: #111; color: white; text-align: center; padding: 10px; }
+    form { max-width: 500px; margin: auto; display: flex; flex-direction: column; gap: 10px; }
+    input, textarea { padding: 10px; font-size: 16px; width: 100%; }
+    button { padding: 10px; background: #007BFF; color: white; border: none; cursor: pointer; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>My Cameras Installed</h1>
+  <p>Professional Security Camera Installation – Stockton, CA</p>
+</header>
+
+<section>
+  <h2>Services</h2>
+  <p>We specialize in installing high-quality security cameras for homes and small businesses in Stockton and surrounding areas.</p>
+</section>
+
+<section>
+  <h2>Testimonials</h2>
+  <blockquote>“Excellent service! Cameras were installed perfectly. Highly recommend!” – Maria G.</blockquote>
+  <blockquote>“Affordable, fast, and reliable. Great for my small business.” – James L.</blockquote>
+</section>
+
+<section class="gallery">
+  <h2>Our Work</h2>
+  <img src="https://via.placeholder.com/100" alt="Camera install">
+  <img src="https://via.placeholder.com/100" alt="Home security">
+  <img src="https://via.placeholder.com/100" alt="Business surveillance">
+</section>
+
+<section>
+  <h2>Contact Us</h2>
+  <form action="https://formsubmit.co/trejoscommercialservices@gmail.com" method="POST">
+    <input type="text" name="name" placeholder="Your Name" required>
+    <input type="email" name="email" placeholder="Your Email" required>
+    <textarea name="message" placeholder="Your Message" rows="5" required></textarea>
+    <button type="submit">Send Message</button>
+  </form>
+</section>
+
+<section>
+  <h2>Location</h2>
+  <iframe src="https://www.google.com/maps?q=Stockton,+CA&output=embed" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen></iframe>
+</section>
+
+<footer>
+  <p>&copy; 2025 My Cameras Installed – All Rights Reserved</p>
+</footer>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/6830a3120f5891190cc590a6/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+</body>
+</html>
